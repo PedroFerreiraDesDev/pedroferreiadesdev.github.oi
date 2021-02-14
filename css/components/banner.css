@@ -1,0 +1,28 @@
+.banner{ 
+    box-sizing: content-box;
+    background-image: url("../../assets/img/background-home.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    min-height: 500px;
+    height: 810px;
+    border-bottom: solid 10px #e3e555;
+}
+    
+.banner .box1{
+    margin-bottom: 36px;
+    margin-top: 90px;
+    margin-left: 91px;
+}
+.banner .wapper{
+    display: flex;
+    flex-direction: column;
+    width: 640px;
+}
+.banner .navegation{
+   display: flex;
+   justify-content: space-around;
+   margin-left: 70px;
+}
+

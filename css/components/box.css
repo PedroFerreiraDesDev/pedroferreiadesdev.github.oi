@@ -1,13 +1,12 @@
 
 .box1 {    
     background-color: #2D9CDB;
-    width: 600px;
     display:inline-block;
     text-align: center;
     box-shadow:5px 5px 2px #ddd;
     padding: 10px 5px 2px;
 }
-.box1 .title1{
+.box1 .title2{
     margin-top: 2px;
 }
 .box1 .title2{
