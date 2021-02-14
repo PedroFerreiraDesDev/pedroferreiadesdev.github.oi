@@ -97,19 +97,3 @@ a:hover{
 .button2 a {
     display: inline-block;
 }
-.tittle1 {
-    color: #62C370;    
-    font-size: 60px;
-    font-style: normal;
-    font-weight: 400;
-    letter-spacing: 0em;
-    text-align: left;
-    text-shadow: 4px 4px 0px #000000;
-}
-.tittle2 {
-    font-size: 50px;
-    font-style: normal;
-    font-weight: 400;
-    letter-spacing: 0em;
-    text-align: left;
-}
