@@ -13,3 +13,9 @@
     font-weight: 400;
     text-shadow: 4px 4px 0px #000000
 }
+.title1.-second{
+    color: #000;
+    text-shadow:none;
+    text-align: center;
+    margin-top: 50px;
+}
