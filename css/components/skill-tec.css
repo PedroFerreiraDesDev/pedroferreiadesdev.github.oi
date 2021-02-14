@@ -3,13 +3,14 @@
     font-size: 18px;
     display: flex;
     align-items: center;
+    
 }
 .skill-tec .title{
-    font-size: 25px;
+
 }
 .skill-tec .icon{
     margin-right: 25px;
-    box-sizing: content-box;
+    
   
 }
 .skill-tec .right{
