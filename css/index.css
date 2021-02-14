@@ -57,19 +57,7 @@ a:hover{
     text-align: left;
     width: 100%;
   }
-.box{
-    align-items: center;
-    font-family: Piedra, sans-serif;
-    font-size: 35px;
-    background-color: #2D9CDB;
-    display:inline-block;
-    line-height: 26px;
-    box-shadow:10px 10px 2px #ddd;
-    padding: 15px 22px;
-    padding-left: 38px;
-    margin-top: 50px;
-    margin-left: 91px;  
-}
+
 .bghome{ 
     background-image: url("../assets/img/background-home.png");
     background-repeat: no-repeat;
