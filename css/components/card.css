@@ -1,18 +1,20 @@
-.button1{
+.card{
     color: #000;
-    background-color: #62C370;
+    background-color: #2D9CDB;
     display:inline-block;
-    height: 25px;
+    height: 280px;
+    width: 280px;
     line-height: 26px;
-    box-shadow:5px 5px 2px #000000;
+    box-shadow:5px 5px 2px #fff;
     padding: 17px 20px;
     margin-right: 0px;
     cursor: url("../assets/img/cursor1.png"), auto;
     text-decoration: none;
     transition: transform 500ms;
+    align-items: center;
 }
-.button1:hover{
+.card:hover{
     transform: translate(5px, 15%);
-    color: #fff;
-    background-color:#009955;  
+    ;
+    background-color: #fff;  
   }
