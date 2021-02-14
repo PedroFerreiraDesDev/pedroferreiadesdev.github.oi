@@ -2,6 +2,7 @@
     font-family: Piedra, sans-serif;
     font-size: 18px;
     display: flex;
+    align-items: center;
 }
 .skill-tec .title{
     font-size: 25px;
@@ -14,5 +15,5 @@
 .skill-tec .right{
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: space-around;
 }
