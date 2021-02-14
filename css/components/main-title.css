@@ -1,0 +1,21 @@
+.main-title{ 
+    font-family: Piedra, sans-serif;
+    color: #62C370;    
+    font-size: 60px;
+    font-weight: 400;
+    letter-spacing: 0em;
+    text-shadow: 4px 4px 0px #000000;
+}
+.title2{
+    font-family: Piedra, sans-serif;
+    color: #fff;
+    font-size: 40px;
+    font-weight: 400;
+    text-shadow: 4px 4px 0px #000000
+}
+.main-title.-second{
+    color: #000;
+    text-shadow:none;
+    text-align: center;
+    margin-top: 50px;
+}
