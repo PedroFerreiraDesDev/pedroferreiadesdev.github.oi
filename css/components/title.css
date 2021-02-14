@@ -1,17 +1,13 @@
-.title1 h1{ 
-    
+.title1{ 
     font-family: Piedra, sans-serif;
-    font-size: 35px;
     color: #62C370;    
     font-size: 60px;
     font-weight: 400;
     letter-spacing: 0em;
     text-shadow: 4px 4px 0px #000000;
 }
-.title1 h2{
-    
+.title2{
     font-family: Piedra, sans-serif;
-    font-size: 35px;
     color: #fff;
     font-size: 40px;
     font-weight: 400;
