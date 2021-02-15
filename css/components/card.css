@@ -24,6 +24,7 @@
 .card-project.-grey{
     background-color:#333333;
 }
+
 .card-project.-grey:hover{
     transform: translate(5px, 15%);
     background-color: #fff;

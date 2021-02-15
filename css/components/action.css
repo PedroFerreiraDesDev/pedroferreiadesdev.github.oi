@@ -8,6 +8,7 @@
     text-decoration:none;
     margin-right: 20px;
 } 
+
 .action::before{
     content: "";
     background-color: #62C370;
