@@ -1,4 +1,4 @@
-.button1{
+.main-button{
     color: #000;
     background-color: #62C370;
     display:inline-block;
@@ -12,7 +12,7 @@
     transition: transform 500ms;
 }
 
-.button1:hover{
+.main-button:hover{
     transform: translate(5px, 15%);
     color: #fff;
     background-color:#009955;  
