@@ -1,4 +1,4 @@
-.banner{ 
+.main-banner{ 
     box-sizing: content-box;
     background-image: url("../../assets/img/background-home.png");
     background-repeat: no-repeat;
@@ -11,17 +11,17 @@
 }
 
     
-.banner .box1{
+.main-banner .box1{
     margin-bottom: 36px;
     margin-top: 90px;
     margin-left: 91px;
 }
-.banner .wapper{
+.main-banner .wapper{
     display: flex;
     flex-direction: column;
     width: 640px;
 }
-.banner .navegation{
+.main-banner .navegation{
    display: flex;
    justify-content: space-around;
    margin-left: 70px;
