@@ -1,18 +1,18 @@
-.section{
+.main-section{
     background-color:#2F80ED;
     height:730px;
     padding-top: 50px;
     border-bottom: solid 10px #62C370;
 }
-.section .main-title{
+.main-section .main-title{
     margin-bottom: 50px;
 }
-.section.-second{
+.main-section.-second{
     background-color: #fff;
 }
 
 
-.section .card{
+.main-section .card{
     align-items: center;
     justify-content: space-between;
     margin-left: 110px;
