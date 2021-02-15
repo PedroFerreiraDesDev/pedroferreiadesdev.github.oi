@@ -8,11 +8,11 @@
     margin-bottom: 50px;
 }
 .section.-second{
-    background-color: rgb(196, 83, 83);
+    background-color: #fff;
 }
-.section .card{
-align-items: center;
-    justify-content: space-between;
-    margin-left: 100px;
 
+.section .card{
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 110px;
 }
