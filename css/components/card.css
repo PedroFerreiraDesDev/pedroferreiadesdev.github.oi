@@ -1,11 +1,13 @@
-.card{
+.card-project{
     color: #000;
     background-color: #2D9CDB;
-    display:inline-block;
-    height: 280px;
-    width: 280px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    width: 250px;
     line-height: 26px;
-    box-shadow:5px 5px 2px #fff;
+    box-shadow:5px 5px 2px #62C370;
     padding: 17px 20px;
     margin-right: 0px;
     cursor: url("../assets/img/cursor1.png"), auto;
@@ -13,8 +15,17 @@
     transition: transform 500ms;
     align-items: center;
 }
-.card:hover{
+.card-project:hover{
     transform: translate(5px, 15%);
-    ;
-    background-color: #fff;  
+    background-color: #62C370;
+    box-shadow:5px 5px 2px #2D9CDB;  
+  }
+
+.card-project.-grey{
+    background-color:#333333;
+}
+.card-project.-grey:hover{
+    transform: translate(5px, 15%);
+    background-color: #fff;
+    box-shadow:5px 5px 2px #2D9CDB;  
   }
