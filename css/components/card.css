@@ -1,13 +1,13 @@
 .card-project{
-    color: #000;
-    background-color: #2D9CDB;
+    color: rgb(0, 0, 0);
+    background-color: #A81452;
     display:flex;
     justify-content: center;
     align-items: center;
     height: 250px;
     width: 250px;
     line-height: 26px;
-    box-shadow:5px 5px 2px #62C370;
+    box-shadow:5px 5px 2px #fff;
     padding: 17px 20px;
     margin-right: 0px;
     cursor: url("../assets/img/cursor1.png"), auto;
@@ -17,8 +17,8 @@
 }
 .card-project:hover{
     transform: translate(5px, 15%);
-    background-color: #62C370;
-    box-shadow:5px 5px 2px #2D9CDB;  
+    background-color: #fff;
+    box-shadow:5px 5px 2px #F5056B;  
   }
 
 .card-project.-grey{
@@ -27,6 +27,6 @@
 
 .card-project.-grey:hover{
     transform: translate(5px, 15%);
-    background-color: #fff;
-    box-shadow:5px 5px 2px #2D9CDB;  
+    background-color: rgb(0, 0, 0);
+    box-shadow:5px 5px 2px #fff;  
   }
