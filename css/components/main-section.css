@@ -2,16 +2,14 @@
     background-color:#000;
     height:730px;
     padding-top: 50px;
-    border-bottom: solid 10px #fff;
+    border-bottom: solid 10px #A81452;
 }
 .main-section .main-title{
     margin-bottom: 50px;
 }
 .main-section.-second{
-    background-color: #A81452;
+    background-color: #F5056B;
     }
-
-
 .main-section .card{
     align-items: center;
     justify-content: space-between;

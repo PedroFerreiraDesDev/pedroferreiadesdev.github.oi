@@ -1,4 +1,5 @@
 
+
 .main-box {    
     background-color: #000000;
     display:inline-block;
@@ -11,5 +12,21 @@
     margin-top: 2px;
 }
 .main-box .main-subtitle{
+    margin-bottom: 10px;
+}
+
+.main-box-secund{    
+    background-color:none;
+    display:inline-block;
+    text-align: center;
+    box-shadow:none;
+    padding: 10px 5px 2px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.main-box-secund .main-subtitle{
+    margin-top: 2px;
+}
+.main-box-secund .main-subtitle{
     margin-bottom: 10px;
 }
